@@ -1,4 +1,5 @@
-### Built-in Primitive Types
+
+### Primitive Types
 
 | Data Type | Typical Size | Typical Range | Notes |
 | - | - | - | - |
@@ -23,3 +24,5 @@
 | long long | Promises a width of at least 64 bits |
 
 signed/unsigned and width specifiers can be used together.
+### Storing consecutive data
+For storing consecutive data of the same type, see [[Arrays]].
