@@ -1,1 +1,0 @@
-Static, or compile-time, polymorphism is the implementation of polymorphism through resolution that occurs at compile time rather than runtime. This is commonly achieved through [[Templates]] and [[Function Overloading]]. This improves runtime performance.

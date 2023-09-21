@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f57a629bd840e838",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2a4cfd2aacfaf3ab",
+            "id": "67187f2e835d4e2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Operations/Short Circuit Evaluation.md",
+                "file": "C++/Diamond Inheritance Problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Operations/Short Circuit Evaluation.md",
+                "file": "C++/Diamond Inheritance Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Operations/Short Circuit Evaluation.md",
+                "file": "C++/Diamond Inheritance Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Operations/Short Circuit Evaluation.md"
+                "file": "C++/Diamond Inheritance Problem.md"
               }
             }
           },
@@ -165,44 +156,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a4cfd2aacfaf3ab",
+  "active": "67187f2e835d4e2d",
   "lastOpenFiles": [
-    "C++/Operations/Logical Operators.md",
-    "C++/Operations/Bitwise Operators.md",
-    "C++/Operations/Arithmetic and Assignment.md",
-    "C++/Operations/- Index.md",
-    "C++/- Index.md",
+    "C++/Inheritance.md",
+    "C++/Classes.md",
+    "C++/Multiple Inheritance.md",
+    "C++/Diamond Inheritance Problem.md",
+    "C++/Virtual Tables.md",
+    "C++/C++.md",
+    "C++/C vs. C++.md",
+    "C++/Debugging.md",
+    "C++/Headers and CPP Files.md",
+    "C++/Functors.md",
+    "C++/Functions.md",
+    "C++/Function Pointers.md",
+    "C++/Function Overloading.md",
+    "C++/Function Keywords.md",
+    "C++/Forward Declaration.md",
     "C++/Flow Control.md",
-    "C++/Operations/Short Circuit Evaluation.md",
-    "_My Obsidian Vault_.md",
-    "C++/Operations",
-    "C++/The Language/Why C++?.md",
-    "C++/The Language/History of C++.md",
-    "C++/The Language/C vs. C++.md",
-    "JavaScript.md",
-    "C++/Types/Dynamic Typing.md",
-    "C++/Types/Static Typing.md",
-    "C++/Run-Time Type Identification.md",
-    "C++/Types/Primitive Types.md",
-    "C++/Name Mangling.md",
     "C++/Exit Codes.md",
     "C++/Exception Handling.md",
+    "C++/Errors.md",
+    "C++/Encapsulation.md",
+    "C++/Dynamic Typing.md",
+    "C++/Dynamic Polymorphism.md",
+    "C++/Bitwise Operators.md",
+    "C++/Arrays.md",
+    "C++/Arithmetic and Assignment.md",
+    "C++/Any Container.md",
+    "_Templates",
+    "C++/Operations",
     "JavaScript",
-    "C++/Tools/Debugging.md",
     "C++/Tools",
-    "C++/Access Violations.md",
-    "C++/Functions/Function Keywords.md",
-    "C++/Object Oriented Programming/Dynamic Polymorphism.md",
     "C++/Errors",
-    "C++/Error Handling.md",
-    "C++/Object Oriented Programming/Static Polymorphism.md",
-    "C++/Object Oriented Programming/Structures.md",
     "C++/Object Oriented Programming",
     "C++/Structuring Codebase",
     "C++/Compilation",
     "C++/Idioms and Concepts",
     "C++/Memory/Smart Pointers",
-    "Untitled.canvas",
-    "C++/Memory"
+    "Untitled.canvas"
   ]
 }

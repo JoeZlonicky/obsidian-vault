@@ -1,5 +1,4 @@
-There are various mechanisms for controlling the flow of a program.
-
+### Description
 |Control|Usage|Notes|
 |-|-|-|
 |if|`if (a > 5) {}`|Evaluates and then will execute code inside if true.|
@@ -11,4 +10,33 @@ There are various mechanisms for controlling the flow of a program.
 |break|`while (a > 5) { break; }`|Breaks out of a loop. For nested loops it breaks out of the innermost loop.|
 |continue|`while (a > 5) { continue; }` | Goes to next iteration of loop. The loop condition is still checked and for a for-loop the third field would still be executed.|
 |goto|`label:`<br>`a++`<br>`goto label;`| Jumps to a label elsewhere in the code. Usually results in confusing/dangerous code. One useful case though is escaping multiple nested loops.|
+
+### Examples
+```run-cpp
+#include<iostream>
+
+int main() {
+	int x = 3;
+	if (x > 5) {
+		std::cout << "X is greater than 5" << std::endl;
+	} else if (x < 5) {
+		std::cout << "X is less than 5" << std::endl;
+	} else {
+		std::cout << "X is exactly 5!" << std::endl;
+	}
+
+	while (x < 10) {
+		++x;
+		std::cout << "X is now: " << x << std::endl;
+		if (x == 7) {
+			std::cout << "Breaking out!" << std::endl;
+			break;
+		}
+	}
+}
+
+```
+
+### See Also
+* [[Logical Operators]]
 
