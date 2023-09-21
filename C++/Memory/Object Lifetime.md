@@ -4,6 +4,7 @@ In C++, object lifetime can be classified into four categories:
 3. Automatic
 4. Dynamic
 
+See [[Memory Model]] for how these objects are stored.
 ### Static Storage Duration
 Objects with static storage duration exist for the entire run of the program. They are allocated at the start of the program running and deallocated when the program terminates. Global variables, static data members, and static local variables all fall into this category.
 

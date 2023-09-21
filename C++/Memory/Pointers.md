@@ -10,4 +10,6 @@ if (pointer != nullptr) {  // Dereferencing null pointer = undefined behavior
 
 ```
 
+Like [[References]] pointers can be used to pass objects around more efficiently. However pointers have the advantage of being null-able and to change what they point to.
+
 You can also have [[Function Pointers]]

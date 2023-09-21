@@ -1,3 +1,4 @@
+Below are all of the bitwise operators.
 
 |Operator|Usage|Notes|
 |-|-|-|

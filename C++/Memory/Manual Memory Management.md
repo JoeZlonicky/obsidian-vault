@@ -1,4 +1,4 @@
-Raw pointers are used for manually allocating memory, creating dynamic arrays, and passing values around efficiently.
+Manual memory management can be used to dynamically allocate variables and arrays. Allocated objects are stored on the heap. See [[Memory Model]] for the advantages of this.
 
 ### new and delete
 The `new` operator allocates memory on the heap. This memory will remain until explicitly deallocated with the `delete` operator. If you don't deallocate the memory, it will result in a memory leak.

@@ -1,4 +1,4 @@
-There are various mechanisms for controlling the flow of a program, usually based on evaluation using [[Logical Operators]].
+There are various mechanisms for controlling the flow of a program.
 
 |Control|Usage|Notes|
 |-|-|-|

@@ -1,3 +1,4 @@
+Below are all of the basic operations regarding assignment and/or arithmetic.
 
 |Operator|Usage|Notes|
 |-|-|-|
@@ -14,4 +15,3 @@
 |%=|`x %= 5`||
 |++|`int a = 5;`<br>`int b = ++a;`<br>`int c = a++;`|Prefix increments the value before returning it. Postfix returns the value first and then increments it|
 |--|`int a = 5;`<br>`int b = --a;`<br>`int c = a--;`|Prefix decrements the value before returning it. Postfix returns the value first and then decrements it|
-

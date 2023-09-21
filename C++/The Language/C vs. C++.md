@@ -7,5 +7,3 @@
 |Error handling is done primarily through return codes|Allows catching and handling exceptions|
 
 Because C++ is a super-set of C, most C programs can be compiled and run with a C++ compiler.
-
-For more advantages of C++ see [[Why C++?]].

@@ -18,3 +18,5 @@ int main() {
 	return 0;
 }
 ```
+
+Classes are usually separated into [[Headers and CPP Files]].

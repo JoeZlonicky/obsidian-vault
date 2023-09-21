@@ -1,3 +1,4 @@
+Below are all of the logical operators.
 
 |Operator|Usage|Notes|
 |-|-|-|
@@ -11,12 +12,13 @@
 |>=|`if (a >= b)`|Checks if left operand is greater, or equal to, the right|
 |<=|`if (a <= b)`|Checks if left operand is lesser, or equal to, the right|
 
-**Priority:** 
+### Priority###
+Logical operations are always evaluated in the following priority:
 1. !
 2. &&
 3. ||
 
-**Tricks:**
+### Tricks
 ```c++
 bool a = true;
 a = !a;  // Will invert value
@@ -24,5 +26,3 @@ a = !a;  // Will invert value
 bool b = true;
 if (a != b) {} // Does an XOR check
 ```
-
-For operations that work with the individual bits, see [[Bitwise Operators]].

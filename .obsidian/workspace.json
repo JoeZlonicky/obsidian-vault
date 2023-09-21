@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "8e814a31a2b4cdcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0a92c52f09dc7ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f57a629bd840e838",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a4cfd2aacfaf3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Operations/Short Circuit Evaluation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6783545a3f3ec8c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6d8f7ec0b4bf908",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "125ec99bf32f61c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8494966289c257e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf81c0d6005d938f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef7dc3ea5c4e3d60",
+    "type": "split",
+    "children": [
+      {
+        "id": "b43b2e06b762ec47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b74cf6ccf4b16e89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/Operations/Short Circuit Evaluation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec72b9b84188ed04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++/Operations/Short Circuit Evaluation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95da7575efaeb812",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f31b815e3bcd36a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++/Operations/Short Circuit Evaluation.md"
+              }
+            }
+          },
+          {
+            "id": "c91c14a1035b4522",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2a4cfd2aacfaf3ab",
+  "lastOpenFiles": [
+    "C++/Operations/Logical Operators.md",
+    "C++/Operations/Bitwise Operators.md",
+    "C++/Operations/Arithmetic and Assignment.md",
+    "C++/Operations/- Index.md",
+    "C++/- Index.md",
+    "C++/Flow Control.md",
+    "C++/Operations/Short Circuit Evaluation.md",
+    "_My Obsidian Vault_.md",
+    "C++/Operations",
+    "C++/The Language/Why C++?.md",
+    "C++/The Language/History of C++.md",
+    "C++/The Language/C vs. C++.md",
+    "JavaScript.md",
+    "C++/Types/Dynamic Typing.md",
+    "C++/Types/Static Typing.md",
+    "C++/Run-Time Type Identification.md",
+    "C++/Types/Primitive Types.md",
+    "C++/Name Mangling.md",
+    "C++/Exit Codes.md",
+    "C++/Exception Handling.md",
+    "JavaScript",
+    "C++/Tools/Debugging.md",
+    "C++/Tools",
+    "C++/Access Violations.md",
+    "C++/Functions/Function Keywords.md",
+    "C++/Object Oriented Programming/Dynamic Polymorphism.md",
+    "C++/Errors",
+    "C++/Error Handling.md",
+    "C++/Object Oriented Programming/Static Polymorphism.md",
+    "C++/Object Oriented Programming/Structures.md",
+    "C++/Object Oriented Programming",
+    "C++/Structuring Codebase",
+    "C++/Compilation",
+    "C++/Idioms and Concepts",
+    "C++/Memory/Smart Pointers",
+    "Untitled.canvas",
+    "C++/Memory"
+  ]
+}

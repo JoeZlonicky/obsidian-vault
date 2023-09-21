@@ -1,4 +1,4 @@
-There are two main mechanisms for RTTI in C++:
+There are two main mechanisms for Run-Time Type Identification (RTTI) in C++:
 1. `typeid`
 2. `dynamic_cast`
 It's worth noting that both mechanisms result in additional information to be generated during compilation and stored and processed during runtime.
