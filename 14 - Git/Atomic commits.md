@@ -1,0 +1,2 @@
+### Description
+A commit a that includes changes related to only one feature or one task of your program. Doing atomic commits makes it easier to revert specific changes and enables to write better commit messages.

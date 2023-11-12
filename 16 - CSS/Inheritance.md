@@ -1,0 +1,2 @@
+### Description
+Inheritance refers to CSS properties that, when applied to an element, are inherited by that element's descendants. Typography based properties (`color`, `font-size`, `font-family`, etc.) are usually inherited, while most other properties aren't.

@@ -1,0 +1,2 @@
+### Description
+Images can be inserted via an `<img>` tag. `<img>` tags should always have an `href` attribute for specifying the image source and an `alt` attribute for screen readers (or if the image fails to load).

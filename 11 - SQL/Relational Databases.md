@@ -1,0 +1,2 @@
+### Description
+A relational database stores and organises data in a structure such that data can be identified and accessed in relation to other data in the database. Data in relational databases are stored in [[Tables]].  Each row in the table has a unique identifier ([[Primary Keys]]).
