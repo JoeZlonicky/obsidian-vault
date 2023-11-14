@@ -40,3 +40,6 @@ int main() {
 	return 0;
 }
 ```
+
+### See Also
+* [[Noexcept]]

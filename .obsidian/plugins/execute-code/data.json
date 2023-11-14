@@ -2,7 +2,7 @@
   "lastOpenLanguageTab": "cpp",
   "timeout": 10000,
   "allowInput": true,
-  "wslMode": true,
+  "wslMode": false,
   "nodePath": "node",
   "nodeArgs": "",
   "jsFileExtension": "js",

@@ -14,4 +14,4 @@
 
 ### See Also
 * [[Integer Type Modifiers]]
-* [[Arrays]]
+* [[11 - C++/Arrays]]

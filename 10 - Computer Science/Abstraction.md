@@ -1,7 +1,6 @@
 ### Description
 Abstraction is hiding the details behind a concept, resulting in an easy-to-use interface.
 ### Examples
-C++ Example:
 ```run-cpp
 class Car {
 	void drive() {

@@ -28,5 +28,5 @@ If no parameters are needed then either no parameters can be specified, or the k
 * [[Forward Declaration]]
 * [[Lambda Functions]]
 * [[Function Pointers]]
-* [[Function Keywords]]
+* [[Noexcept]]
 * [[Function Overloading]]

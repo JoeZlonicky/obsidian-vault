@@ -2,6 +2,6 @@
 * [[Static Typing]]
 * [[Dynamic Typing]]
 * [[Primitive Types]]
-* [[Arrays]]
+* [[11 - C++/Arrays]]
 * [[Auto Type Deduction]]
 * [[Type Casting]]

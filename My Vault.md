@@ -4,3 +4,7 @@ Programming topics:
 * [[C++]]
 * [[SQL]]
 * [[Computer Science]]
+* [[Git]]
+* [[Bash]]
+* [[HTML]]
+* [[CSS]]

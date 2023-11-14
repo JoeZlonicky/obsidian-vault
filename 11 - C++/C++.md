@@ -1,6 +1,6 @@
 ### Description
 * [[History of the Language]]
-* [[Arithmetic and Assignment]]
+* [[Arithmetic Operators]]
 * [[Flow Control]]
 * [[Types]]
 * [[Functions]]
